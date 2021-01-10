@@ -6,7 +6,7 @@
 /out/
 *.iml
 modules.xml
-.idea/misc.xml
+.idea/*
 *.ipr
 
 ### Maven ###

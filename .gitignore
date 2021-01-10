@@ -9,6 +9,7 @@
 *.iml
 modules.xml
 *.ipr
+.idea
 
 ### Maven ###
 target/
